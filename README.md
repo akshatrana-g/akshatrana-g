@@ -46,7 +46,7 @@ I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Struc
 
 ### You can find in me in the web 🌍 
 
-[<img align="left" alt="Akshat511716 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Akshat511716 | Twitter" width="22px" style="color: #000" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Akshat511716 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Akshat511716 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -61,6 +61,7 @@ I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Struc
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 ## Check the Repositories and don't forget to give a star.👇
+### Don't forget to follow me!
 
 [Website]: https://bit.ly/akshatrana
 [twitter]: https://twitter.com/akshatrana5117
