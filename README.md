@@ -54,7 +54,7 @@ I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Struc
 [<img align="left" alt="Akshat511716 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Akshat511716 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-### Checkout my website: [wesbite]
+Checkout my website: [website]
 <br/>
 
 Let's connect 👨‍💻 and forge the future together.😁✌
