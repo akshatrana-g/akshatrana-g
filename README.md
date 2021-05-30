@@ -15,6 +15,8 @@ I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Struc
  :books: I want to learn ReactJS and UI designing!
  
  💬 Ask me about Java, HTML, CSS, and Communities.
+ 
+ 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" /> -->
@@ -25,43 +27,37 @@ I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Struc
 
 ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<!-- <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> -->
-<!-- <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> -->
-<!-- <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> -->
-<!-- <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> -->
-<!-- <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> -->
-<!-- <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> -->
-<!-- <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> -->
-<!-- <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat"> -->
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<!-- <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"> -->
-<!-- <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white"> -->
+<img src="https://img.shields.io/badge/java%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">   
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">   
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">   
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">   
+<!-- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">    -->
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">   
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>   
+<img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshat511716&show_icons=true&hide_border=true)
 
 
-### You can find in me in the web 🌍
-
+### You can find in me in the web 🌍 
+### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 [<img align="left" alt="Akshat511716 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Akshat511716 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Akshat511716 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Checkout my website: [website]
+<br/>
+Checkout my [Website]
 <br/>
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-[website]: https://bit.ly/akshatrana
+[Website]: https://bit.ly/akshatrana
 [twitter]: https://twitter.com/akshatrana5117
 [instagram]: https://www.instagram.com/akshatrana16/
 [linkedin]: https://www.linkedin.com/in/akshat-rana/
