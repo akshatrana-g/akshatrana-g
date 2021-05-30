@@ -18,6 +18,7 @@ I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Struc
  
  🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 
+  🤝 Want to know more about EquiCode https://linktr.ee/Equicode
 
 <!-- ![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" /> -->
 
@@ -44,12 +45,16 @@ I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Struc
 
 
 ### You can find in me in the web 🌍 
-### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+
 [<img align="left" alt="Akshat511716 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Akshat511716 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Akshat511716 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Akshat511716 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+[LinkedIn] <br/>
+**Mail me at akshat511716@gmail.com
+
 Checkout my [Website]
 <br/>
 
@@ -60,4 +65,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [Website]: https://bit.ly/akshatrana
 [twitter]: https://twitter.com/akshatrana5117
 [instagram]: https://www.instagram.com/akshatrana16/
-[linkedin]: https://www.linkedin.com/in/akshat-rana/
+[LinkedIn]: https://www.linkedin.com/in/akshat-rana/
