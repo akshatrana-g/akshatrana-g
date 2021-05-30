@@ -50,10 +50,11 @@ I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Struc
 [<img align="left" alt="Akshat511716 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Akshat511716 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br>/
 
 
 ### Reach me at: [LinkedIn]
-**Mail me at akshat511716@gmail.com
+### Mail me at akshat511716@gmail.com
 
 Checkout my [Website]
 <br/>
