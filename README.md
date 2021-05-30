@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn1.bbcode0.com/uploads/2021/5/30/7f24629137e9c94158826f77d72407eb-full.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://cdn1.bbcode0.com/uploads/2021/5/30/c3bd1fa427a7bf1744d8f62f9560172c-full.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Structure and Algorithms while facilitating the world with User Experience with my Design Skills and Enthusiast about ML. :wink:
