@@ -50,18 +50,17 @@ I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Struc
 [<img align="left" alt="Akshat511716 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="Akshat511716 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br>/
+<br>
 
 
 ### Reach me at: [LinkedIn]
 ### Mail me at akshat511716@gmail.com
-
-Checkout my [Website]
+### Checkout my [Website]
 <br/>
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
+## Check the Repositories and don't forget to give a star.👇
 
 [Website]: https://bit.ly/akshatrana
 [twitter]: https://twitter.com/akshatrana5117
