@@ -52,8 +52,8 @@ I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Struc
 
 
 <br/>
+### Reach me at: 
 [LinkedIn] 
-<br/>
 **Mail me at akshat511716@gmail.com
 
 Checkout my [Website]
