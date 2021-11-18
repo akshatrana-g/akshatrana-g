@@ -3,8 +3,7 @@
 ---
 
 <p align="center">
-  ![alt text](https://github.com/[Akshat511716]/[Akshat511716]/blob/[main]/Akshat's Profile.jpg?raw=true)
-  <img src="https://cdn1.bbcode0.com/uploads/2021/5/30/0c3a633a8aabdda7c9ef02275185eb43-full.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/Akshat511716/Akshat511716/blob/main/Akshat's Profile.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Structure and Algorithms while facilitating the world with User Experience with my Design Skills and Enthusiast about ML. :wink:
