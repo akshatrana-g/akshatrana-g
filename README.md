@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Akshat511716/Akshat511716/blob/main/Akshat's Profile.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/Akshat511716/Akshat511716/blob/main/Akshat's Profile.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a CSE Junior, Web Developer and Java enthusiast who is exploring Data Structure and Algorithms while facilitating the world with User Experience with my Design Skills and Enthusiast about ML. :wink:
