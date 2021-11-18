@@ -3,6 +3,7 @@
 ---
 
 <p align="center">
+  ![alt text](https://github.com/[Akshat511716]/[Akshat511716]/blob/[main]/Akshat's Profile.jpg?raw=true)
   <img src="https://cdn1.bbcode0.com/uploads/2021/5/30/0c3a633a8aabdda7c9ef02275185eb43-full.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
