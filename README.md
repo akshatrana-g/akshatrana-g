@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Akshat</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
   <img src="https://github.com/Akshat511716/Akshat511716/blob/main/Akshat Rana Profile.png" width="100%" title="Intro Card" alt="Intro Card">
