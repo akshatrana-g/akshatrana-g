@@ -4,12 +4,12 @@
 <h1 align="center">Hi 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/Akshat511716/Akshat511716/blob/main/Akshat Rana Profile.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/akshatranagithub/akshatranagithub/blob/main/Akshat Rana Profile.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 <h3 align="center">A Data enthusiast from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://akshat511716.github.io/akshatrana/](https://akshat511716.github.io/akshatrana/)
+- 👨‍💻 All of my projects are available at [https://akshatranagithub.github.io/akshatrana/](https://akshatranagithub.github.io/akshatrana/)
 
 - 📫 How to reach me **akshat511716@gmail.com**
 
