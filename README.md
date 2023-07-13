@@ -9,7 +9,7 @@
 
 <h3 align="center">A Data enthusiast from India</h3>
 
-- 👨‍💻 All of my projects are available at my [Website](https://akshatranagithub.github.io/akshatrana/)
+- 👨‍💻 All of my projects are available at my **[Website](https://akshatranagithub.github.io/akshatrana/)**
 
 - 📫 How to reach me **akshatranagithub@gmail.com**
 
