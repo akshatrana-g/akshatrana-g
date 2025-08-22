@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/akshatranagithub/akshatranagithub/blob/main/Akshat Rana Profile.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/akshatranagithub/akshatranagithub/blob/main/Keep it simple.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 <h3 align="center">A Data enthusiast from India</h3>
